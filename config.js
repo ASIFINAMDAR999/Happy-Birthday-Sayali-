@@ -27,8 +27,8 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Irene",
-  photo: "./img/irene.jpg",       // Place your photo in the img/ folder
+  name: "Sayali",
+  photo: "./img/sayali.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
@@ -48,7 +48,7 @@ const CONFIG = {
 
   // ── Default Color Mode ────────────────────────────────────────
   // Options: "dark" or "light"
-  defaultMode: "dark",
+  defaultMode: "light",
 
   // ── Sections ──────────────────────────────────────────────────
   // Add, remove, duplicate, or reorder as you wish!
@@ -70,7 +70,7 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "Happy Birthday, my love ❤️ To my dearest Sayali, I wish you the most beautiful birthday and an amazing year ahead filled with happiness, love, and everything your heart desires, you truly deserve all the joy in the world, every moment with you is so special to me and I’m so grateful to have you in my life, I promise to always stand by you and love you more with each passing day, I love you so much ❤️✨",
       buttonText: "Send",
     },
     {
