@@ -70,9 +70,7 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "
-
-Happy Birthday to the most precious part of my life my love Sayali ❤️🎂
+        "Happy Birthday to the most precious part of my life my love Sayali ❤️🎂
 At this moment I just want to thank god for bringing you to me because meeting you was not planned but loving you became the most beautiful thing in my life 💖 you are not just someone special you are my feeling my peace and the part of my heart I never want to lose
 You are my good luck charm  since you came into my life everything feels better and more meaningful
 I may not always express it perfectly but you have changed me in the best way possible and having you in my life means everything to me 🥺❤️
